@@ -11,7 +11,8 @@
 
 ### ${\color{#8db3e2}\text{Rappel de la différence entre Flash NAND et Flash NOR}}$
 
-![alt text](https://github.com/user-attachments/assets/4193df2c-5874-4bc1-95e5-f384a13066f1)
+<img width="1033" height="612" alt="image" src="https://github.com/user-attachments/assets/62c9fc9d-2bc4-4679-a07c-88da70e43792" />
+
 ---
 
 ### ${\color{#8db3e2}\text{L'ordinateur contient}}$
